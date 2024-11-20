@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/andrewhembrom/Desktop/CN_proj/CN_DA_Project/build/CMakeFiles/bootloader
+/home/andrewhembrom/Desktop/CN_proj/CN_DA_Project/build/CMakeFiles/bootloader.rule
+/home/andrewhembrom/Desktop/CN_proj/CN_DA_Project/build/CMakeFiles/bootloader-complete.rule
+/home/andrewhembrom/Desktop/CN_proj/CN_DA_Project/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/andrewhembrom/Desktop/CN_proj/CN_DA_Project/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/andrewhembrom/Desktop/CN_proj/CN_DA_Project/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/andrewhembrom/Desktop/CN_proj/CN_DA_Project/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/andrewhembrom/Desktop/CN_proj/CN_DA_Project/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/andrewhembrom/Desktop/CN_proj/CN_DA_Project/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/andrewhembrom/Desktop/CN_proj/CN_DA_Project/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
